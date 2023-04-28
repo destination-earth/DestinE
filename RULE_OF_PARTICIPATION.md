@@ -33,7 +33,7 @@ For each new project which appears in the organisation but has its own repositor
 * Link to website page (if available).
 
 # How to ask the inclusion of a new project
-For the inclusion of a new project is necessary to open a new issue of type "new project repository request".
+For the inclusion of a new project is necessary to open a new issue template "new-project-repository-request".
 The request will be evaluated by the Community Steering Board and an answer will be given within 15 days.  
 After the inclusion in the community each project will manage its own repository and will define the rule for participation most suitable for it.
 In DestinE phase 1 only projects which are founded by DestinE initiative will be hosted within this organisation. For other relevant projects an XRL repository will be created.
