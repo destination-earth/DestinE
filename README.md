@@ -24,9 +24,9 @@ Items are stored in different repositories, which can be internal or external, w
 - in case of DestineE, the Entrusted Entities name​.
 For instance:
 
-- DestineE_ECMWF <Use Case #>
-- DestineE_ESA <Use Case #>
-- DestineE_EUMETSAT <Use Case #>
+- DestinE_ECMWF <Use Case #>
+- DestinE_ESA <Use Case #>
+- DestinE_EUMETSAT <Use Case #>
 
 While if the repository is physically outside the Organisation the "XRL" (eXternal Repository Link) code is used after the funding line. For instance :
 
