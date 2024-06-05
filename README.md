@@ -53,7 +53,7 @@ To get more information visit the website https://www.destination-earth.eu/
 ## Community Steering Board
 
 
-* Antonio Romeo, Lead contributor (RHEA Group)
+* Antonio Romeo, Lead contributor (Starion Group)
 * Claudia Vitolo (ESA)
 * Danaele Puechmaille (EUMETSAT)
 * Joern Hoffmann (ECMWF)
