@@ -41,6 +41,7 @@ This naming convention apply to each new repository created.
 In addition to Use Case and Partnership projects repositories the following repositories are also included in the organisation:
 
 - **DestinE**: this reposotory, acting as landing page for the DestinE open-source community
+- **DestinE-DataLake-Lab**: Examples on how to make use of DestinE Data Lake services
 - **DestinE_ESA_DESP_Use_Cases_Management**: reporting projects output open to community contribution( e.g. DESP user requirements, Community Building and Management Strategy, DestinE Exploitation Roadmap)
 - **DestinE_ESA_Website**: allowing the community to propose content for the DestinE website
 
