@@ -96,12 +96,10 @@ The repository has been requested and approved, the following steps are followed
 
 
 ## Contact
-
-* Antonio Romeo, Lead contributor (Starion Group) - TODO
-* Claudia Vitolo (ESA) - TODO
+* Claudia Vitolo (ESA)
 * Sébastien Tétaud (ESA) - sebastien.tetaud@esa.int
-* Danaele Puechmaille (EUMETSAT) - TODO
-* Joern Hoffmann (ECMWF) - TODO
+* Danaele Puechmaille (EUMETSAT)
+* Joern Hoffmann (ECMWF)
 
 
 ## Contributions
