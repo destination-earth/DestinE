@@ -13,7 +13,7 @@ As part of the European Commission’s Green Deal and Digital Strategy, DestinE 
 ## Getting Started
 
 In the DestinE GitHub open source organisation it is possible to find the following items:
-* open source software related to DestinE initiative like the Use Cases developed under contracts with ECMWF, ESA and EUMETSAT 
+* open source software related to DestinE initiative like the Use Cases developed under contracts with ECMWF, ESA and EUMETSAT
 * documentation generated under such contracts which follow the openess principle and are available for community review and contributions (e.g. user requirements, community engagement strategy, etc.)
 * tools for contributing content to DestinE website
 * links to open source repositories highly relevant to DestinE but developed outside the initiative
@@ -45,25 +45,64 @@ In addition to Use Case and Partnership projects repositories the following repo
 - **DestinE_ESA_Website**: allowing the community to propose content for the DestinE website
 - **DestinE-DataLake-Lab**: Examples on how to make use of DestinE Data Lake services
 
+### Repository Strategy:
 
-## Help
+To create a new repository, an entity or individual must contact one of the 3E's (ECMWF, ESA, or EUMETSAT).
 
-To get more information visit the website https://www.destination-earth.eu/
+### 1. Public vs Private repositories. What to choose?
+
+The choice between public and private repositories depends on:
+
+- Project funding source (European Commission vs. ESA member states).
+
+- Project definition and objectives.
+
+- Project type (commercialization, innovation, startup, hackathon, Open-Source project).
+
+### 2. Repository Creation and Management
+
+The repository has been requested and approved, the following steps are followed.
+
+- **Repository Creation**: Follows the structure outlined in the DestinE GitHub repository generation guide.
+
+- **Repository Assignment**: Each repository is assigned to a specific project or service with a dedicated management team.
+
+- **Repository Visibility**: One of the organization owners sets the repository's visibility as "Public" or "Private" based on the project.
+
+- **Owner Assignment**: The 3E's entity that creates the repository invites the future owner to collaborate.
+
+- **Owner Responsibilities**: The assigned owner (ADMIN) has full control over the repository, including settings, collaborators, and security. Therefore the new owner is fully responsible of the repository.
+
+- **Collaborator Roles**: The repository owner is responsible for inviting collaborators. Collaborators do not have admin roles to ensure clear ownership and control.
+
+| Practice                          | Mandatory | Recommended | Nice to have |
+|-----------------------------------|-----------|-------------|-------------|
+| Repository Name Best practice     | ✅        |             |             |
+| CODE_OF_CONDUCT.md                | ✅        |             |             |
+| README.md                         | ✅        |             |             |
+| RULE_OF_PARTICIPATION.mdr         | ✅        |             |             |
+| LICENSE                           | ✅        |             |             |
+| issue_template.md                 | ✅        |             |             |
+| installation guide                | ✅        |             |             |
+| .gitignore file                   | ✅        |             |             |
+| Branching strategy/Code review    | ✅        |             |             |
+| Number of Admin                   | ✅        |  (>1)       |             |
+| Use pull request                  | ✅        |             |             |
+| Documentation                     | ✅        |             |             |
+| Releases Version                  | ✅        |             |             |
+| Code QL                           |           | ✅          |             |
+| Multiple Language version test    |           |             | ✅          |
+| Security Audits                   |           |             | ✅          |
 
 
-## Community Steering Board
+## Contact
 
+* Antonio Romeo, Lead contributor (Starion Group) - TODO
+* Claudia Vitolo (ESA) - TODO
+* Sébastien Tétaud (ESA) - sebastien.tetaud@esa.int
+* Danaele Puechmaille (EUMETSAT) - TODO
+* Joern Hoffmann (ECMWF) - TODO
 
-* Antonio Romeo, Lead contributor (Starion Group)
-* Claudia Vitolo (ESA)
-* Danaele Puechmaille (EUMETSAT)
-* Joern Hoffmann (ECMWF)
-
-
-## Version History
-
-* 1.1
-    * Initial Release
 
 ## Contributions
 
@@ -72,3 +111,8 @@ Tho contribute to DestinE Open Source SW collections please refer to [Rule of Pa
 ## Code of Conduct
 
 DestinE open source community abide to this [Code of Conduct](CODE_OF_CONDUCT.md)
+
+
+## Help
+
+To get more information visit the website https://www.destination-earth.eu/
