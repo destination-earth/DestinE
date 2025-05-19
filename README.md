@@ -98,8 +98,6 @@ The repository has been requested and approved, the following steps are followed
 ## Contact
 * Claudia Vitolo (ESA)
 * Sébastien Tétaud (ESA)
-* Danaele Puechmaille (EUMETSAT)
-* Joern Hoffmann (ECMWF)
 
 
 ## Contributions
