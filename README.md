@@ -67,13 +67,14 @@ The repository has been requested and approved, the following steps are followed
 
 - **Repository Assignment**: Each repository is assigned to a specific project or service with a dedicated management team.
 
-- **Repository Visibility**: One of the organization owners sets the repository's visibility as "Public" or "Private" based on the project.
+- **Repository Visibility**: One of the organization owners sets the repository's visibility as "Public" or "Private" based on the project. The repository is visible as "private" until internal checks are performed. Once the internal checks are passed, the owner will change the visibility to "Public".
 
-- **Owner Assignment**: The 3E's entity that creates the repository invites the future owner to collaborate.
+- **Member Assignment**: The 3Es owner that creates the repository invites the future members to collaborate.
 
-- **Owner Responsibilities**: The assigned owner (ADMIN) has full control over the repository, including settings, collaborators, and security. Therefore the new owner is fully responsible of the repository.
+- **Member Responsibilities**: The assigned owner (ADMIN) of the repository has full control over the repository, including settings, collaborators, and security. Therefore the new owner is fully responsible of the repository.
 
-- **Collaborator Roles**: The repository owner is responsible for inviting collaborators. Collaborators do not have admin roles to ensure clear ownership and control.
+- **Member Roles**: The repository owner is responsible for inviting collaborators. Collaborators do not have admin roles to ensure clear ownership and control.
+
 
 | Practice                          | Mandatory | Recommended | Nice to have |
 |-----------------------------------|-----------|-------------|-------------|
