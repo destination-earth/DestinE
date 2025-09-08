@@ -53,7 +53,7 @@ To create a new repository, an entity or individual must contact one of the 3E's
 
 The choice between public and private repositories depends on:
 
-- Project funding source (European Commission vs. ESA member states).
+- Project funding source (European Commission vs. ESA).
 
 - Project definition and objectives.
 
@@ -67,9 +67,9 @@ The repository has been requested and approved, the following steps are followed
 
 - **Repository Assignment**: Each repository is assigned to a specific project or service with a dedicated management team.
 
-- **Repository Visibility**: One of the organization owners sets the repository's visibility as "Public" or "Private" based on the project. The repository is visible as "private" until internal checks are performed. Once the internal checks are passed, the owner will change the visibility to "Public".
+- **Repository Visibility**: The repository is visible as "private" until internal checks are performed. Once the internal checks are passed, the owner will change the visibility to "Public" or stay "Private" depending on the project definition.
 
-- **Member Assignment**: The 3Es owner that creates the repository invites the future members to collaborate.
+- **Member Assignment**: The 3Es owner that creates the repository invites the future ADMIN members to collaborate.
 
 - **Member Responsibilities**: The assigned owner (ADMIN) of the repository has full control over the repository, including settings, collaborators, and security. Therefore the new owner is fully responsible of the repository.
 
