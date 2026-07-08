@@ -83,22 +83,12 @@ The repository has been requested and approved, the following steps are followed
 | README.md                         | ✅        |             |             |
 | RULE_OF_PARTICIPATION.mdr         | ✅        |             |             |
 | LICENSE                           | ✅        |             |             |
-| issue_template.md                 | ✅        |             |             |
-| installation guide                | ✅        |             |             |
+| issue_template.md                 |           |  ✅         |             |
 | .gitignore file                   | ✅        |             |             |
-| Branching strategy/Code review    | ✅        |             |             |
-| Number of Admin                   | ✅        |  (>1)       |             |
-| Use pull request                  | ✅        |             |             |
+| installation guide                | ✅        |             |             |
+| Number of Admin                   | ✅        |  (>=1)       |             |
 | Documentation                     | ✅        |             |             |
 | Releases Version                  | ✅        |             |             |
-| Code QL                           |           | ✅          |             |
-| Multiple Language version test    |           |             | ✅          |
-| Security Audits                   |           |             | ✅          |
-
-
-## Contact
-* Claudia Vitolo (ESA)
-* Sébastien Tétaud (ESA)
 
 
 ## Contributions
