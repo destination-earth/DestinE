@@ -2,7 +2,7 @@
 
 ## About DestinE
 
-[Destination Earth](https://www.destination-earth.eu/) is a European Union initiative to build a highly accurate digital model of the Earth, used to monitor natural and human activity, anticipate extreme events, and support climate-related policy. It is part of the European Commission's Green Deal and Digital Strategy and contributes to the twin green and digital transition.
+[Destination Earth](https://www.destination-earth.eu/) is a European Union initiative to build a highly accurate digital model of the Earth, used to monitor the effects of natural and human activity, anticipate extreme events, and support policy-making for climate adaptation. It is part of the European Commission's Green Deal and Digital Strategy and contributes to the twin green and digital transition.
 
 ## What's in this organisation
 
@@ -15,15 +15,11 @@ This GitHub organisation gathers:
 
 ## Repository naming convention
 
-Every repository (except this one) is prefixed with a label that identifies its funding line and, where applicable, the Entrusted Entity:
+Repositories created during the first phases of DestinE follow a naming convention that identifies the Entrusted Entity responsible for the development:
 
 - `DestinE_<EE>_<name>` — funded by DestinE, developed by an Entrusted Entity. Example: `DestinE_ESA_UseCase42`.
-- `HorizonE_<name>` — funded under Horizon Europe.
-- `Partnership_<name>` — funded through other partnerships.
 
-When the actual code lives outside this organisation, the placeholder repository uses the `XRL` (eXternal Repository Link) tag after the funding line. It contains a short project description and a link to the real repository. Example: `Partnership_XRL_Project17`.
-
-This convention applies to every new repository.
+This convention no longer applies: development teams are free to choose repository names. Existing repositories keep their names, so both styles coexist in this organisation. Regardless of the name chosen, each repository must declare the Entrusted Entity it was developed under by adding the corresponding topic on the repository page: ecmwf, esa, or eumetsat. This keeps repositories filterable by Entrusted Entity across the organisation.
 
 ### Special repositories
 
@@ -34,15 +30,15 @@ This convention applies to every new repository.
 
 ## Creating a new repository
 
-To request a new repository, contact one of the three Entrusted Entities (ECMWF, ESA, or EUMETSAT).
+To request a new repository, contact one of the three Entrusted Entities (ECMWF, ESA, or EUMETSAT) via the relevant issue template on this repo, or the DestinE Platform support.
 
 ### Choosing public or private
 
-The choice depends on the funding source (European Commission vs. ESA), the project's objectives, and its type (commercialisation, innovation, startup, hackathon, open source). Public is the default for open source deliverables; private is used when confidentiality is required by the contract or when internal checks are still pending.
+The choice depends on the funding line, the project's objectives, and its type (commercialisation, innovation, startup, hackathon, open source). Public is the default for open source deliverables; private is used when confidentiality is required by the contract or when internal checks are still pending.
 
 ### Setup process
 
-1. **Creation.** The repository is created following the DestinE GitHub repository generation guide (link TBD).
+1. **Creation.** The repository is created following the DestinE GitHub repository generation guide (to be published; in the meantime, the Entrusted Entity handles creation).
 2. **Ownership.** The repository is assigned to a specific project or service with a dedicated management team. The Entrusted Entity that creates the repository invites the future admins.
 3. **Initial visibility.** The repository is created as private and remains private until the internal checks are complete. The owner then either flips it to public or keeps it private, depending on the project.
 4. **Roles.** The repository admin has full control (settings, collaborators, security) and is fully responsible for the repository. Collaborators are invited by the admin and do not receive admin rights, to keep ownership clear.
